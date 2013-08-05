@@ -4,3 +4,5 @@ node_js:
  - 0.6
  - 0.7
 install: npm install -d
+services:
+ - couchdb
